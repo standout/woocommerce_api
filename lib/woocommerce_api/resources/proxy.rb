@@ -58,6 +58,9 @@ class WoocommerceAPI::Product < WoocommerceAPI::ResourceProxy
   end
 end
 
+class WoocommerceAPI::Tax < WoocommerceAPI::ResourceProxy
+end
+
 class WoocommerceAPI::Dimensions < WoocommerceAPI::ResourceProxy
 end
 

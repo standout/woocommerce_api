@@ -106,3 +106,5 @@ require "woocommerce_api/resources/v2/variation.rb"
 
 require "woocommerce_api/resources/v2/payment_gateway.rb"
 require "woocommerce_api/resources/v2/tool.rb"
+
+require "woocommerce_api/resources/v2/tax.rb"
